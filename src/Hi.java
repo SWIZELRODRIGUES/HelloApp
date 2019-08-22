@@ -8,5 +8,6 @@ public class Hi {
         System.out.println("Training ends on 16 September");
         System.out.println("Fixed issues ");
 //this is a difficult issue to solve
+        System.out.println("Day 2");
     }
 }
